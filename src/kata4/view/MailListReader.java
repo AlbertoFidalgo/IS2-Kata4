@@ -18,6 +18,7 @@ public class MailListReader {
                 mailList.add(new Mail(string));
             }
         }
+        
         return mailList;   
     }
     
